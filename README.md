@@ -43,13 +43,11 @@ to improve customer retention strategies.
 - Excel Formulas & Data Cleaning
 
 ## Dashboard Preview
-![Churn Dashboard](dashboard_preview.png)
+![Churn Dashboard](https://github.com/piyushwork228/Customer-Churn-Analysis-MSExcel/blob/main/dashboard%20preview.png)
 
-## 📂 Files
+## Files
 | File | Description |
 |------|-------------|
 | `Telecom Churn Dataset & Dashboard.xlsx` | Contains raw data + interactive dashboard |
-| `dashboard_preview.png` | Dashboard screenshot |
-| `Telecom_Churn_Dashboard.xlsx` | Excel dashboard file |
-| `Telecom_Data.csv` | Raw dataset |
-| `dashboard_preview.png` | Dashboard screenshot |
+| `dashboard preview.png` | Dashboard screenshot |
+
